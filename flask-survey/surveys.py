@@ -36,7 +36,7 @@ satisfaction_survey = Survey(
 
 personality_quiz = Survey(
     "Rithm Personality Test",
-    "Learn more about yourself with our personality quiz!",
+    "Learn more about yourself with our personality quiz!"
     [
         Question("Do you ever dream about code?"),
         Question("Do you ever have nightmares about code?"),
